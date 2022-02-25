@@ -1,0 +1,490 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon in confutation of R. H. the author of The guide in controversies Shewing that his most plausible arguments produced against Protestants, do more effectually conclude for Judaism against Christianity. By Daniel Whitby, D.D. chantor of the church of Sarum.</title>
+            <author>Whitby, Daniel, 1638-1726.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 74 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65715</idno>
+            <idno type="STC">Wing W1736A</idno>
+            <idno type="STC">ESTC R222007</idno>
+            <idno type="EEBO-CITATION">99833246</idno>
+            <idno type="PROQUEST">99833246</idno>
+            <idno type="VID">37721</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65715)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37721)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2162:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon in confutation of R. H. the author of The guide in controversies Shewing that his most plausible arguments produced against Protestants, do more effectually conclude for Judaism against Christianity. By Daniel Whitby, D.D. chantor of the church of Sarum.</title>
+                  <author>Whitby, Daniel, 1638-1726.</author>
+               </titleStmt>
+               <extent>20, 145-159, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H. Brome at the Gun in S. Pauls Church-Yard, R. Bentley and M. Magnes in Russelstreet Covent-Garden,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Text is continuous despite pagination; register is not (p. 20 = B8v; p. 145 = 2K).</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>R. H. --  Rational account of the doctrine of Roman-Catholicks concerning the ecclesiastical guide in controversies of religion.</term>
+               <term>Bible. --  N.T. --  John VII, 47-49 --  Sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37721:1" rendition="simple:additions"/>
+            <p>A SERMON IN CONFUTATION Of <hi>R. H.</hi> the AUTHOR OF <hi>The Guide in Controverſies.</hi>
+            </p>
+            <p>SHEWING That his moſt plauſible Arguments produced againſt <hi>Proteſtants,</hi> do more effectually conclude for <hi>Judaiſm</hi> againſt <hi>Chriſtianity.</hi>
+            </p>
+            <p>BY <hi>DANIEL WHITBY,</hi> D. D. Chantor of the Church of <hi>Sarum.</hi>
+            </p>
+            <q>Religio nunquam magis periclitatur quam inter Reverendiſsimos.
+<bibl>
+                  <hi>Luther.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London:</hi> Printed for <hi>H. Brome</hi> at the Gun in S. <hi>Pauls</hi> Church-Yard, <hi>R. Bentley</hi> and <hi>M. Magnes</hi> in <hi>Ruſſelſtreet Covent-Garden.</hi> 1679.</p>
+            <pb facs="tcp:37721:2" rendition="simple:additions"/>
+            <pb facs="tcp:37721:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:37721:3"/>
+            <pb n="3" facs="tcp:37721:3"/>
+            <head>A SERMON ON John vii. 47, 48, 49.</head>
+            <epigraph>
+               <q>Are ye alſo deceived? have any of the Rulers, or of the Phariſees belie<g ref="char:EOLhyphen"/>ved on him? But this people who knoweth not the law is accurſed.</q>
+            </epigraph>
+            <milestone type="tcpmilestone" unit="unspecified" n="I"/>
+            <p>THE <hi>Miracles</hi> of our Bleſſed <hi>Saviour,</hi> by which his Doctrine was confir<g ref="char:EOLhyphen"/>med, were ſo exceeding many, and exceeding great, that they prevailed on thoſe plain hearted people who beheld them to believe that he who wrought them was indeed the <hi>Chriſt.</hi> For <hi>many of the people believed on him, ſaying, when Chriſt cometh will he do more miracles than theſe?</hi> Verſe 31. Theſe apprehenſions of the <hi>Vulgar</hi> did ſo Alarum the <hi>Chief-Prieſts,</hi> and <hi>Phariſees,</hi> who ſaw their Intereſt, Authority, and Credit with the people muſt decline, as faſt as that of <hi>Chriſts</hi> prevailed, that they forth<g ref="char:EOLhyphen"/>with diſpatcht their Officers to take him, and bring him to them, Verſe 32. Theſe <hi>Officers</hi> when they had heard the gracious words which
+<pb facs="tcp:37721:4"/>
+               <pb n="3" facs="tcp:37721:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:37721:5"/>iſſued from the mouth of Chriſt, were them<g ref="char:EOLhyphen"/>ſelves taken by him, they who were ſent to bring <hi>Chriſt</hi> to the <hi>Prieſts</hi> and <hi>Phariſees,</hi> were themſelves brought to <hi>Chriſt,</hi> and ſo theſe Con<g ref="char:EOLhyphen"/>verts neglect to do the Office of the <hi>High-Prieſts</hi> Serjeants. And being asked the reaſon why they had not brought <hi>Chriſt,</hi> they boldly anſwer, that they had heard ſuch gracious and heavenly words proceeding from him <hi>as never man before him ſpake,</hi> and therefore could not think it fit to appre<g ref="char:EOLhyphen"/>hend ſo excellent a perſon, as he was. The <hi>Phariſees,</hi> hearing this anſwer, do preſently con<g ref="char:EOLhyphen"/>clude their <hi>Officers</hi> muſt be deceived in theſe kind thoughts of <hi>Chriſt,</hi> and offer this, as they ſup<g ref="char:EOLhyphen"/>poſed, convincing Argument, to prove it, <hi>viz.</hi> that though the giddy multitude, who had no know<g ref="char:EOLhyphen"/>ledg of the Law, and therefore no capacity to underſtand the mind of God contained in it, might be enclined to think that <hi>Jeſus</hi> was indeed the <hi>Chriſt,</hi> yet ſince the <hi>Rulers</hi> of the <hi>Church,</hi> the <hi>Sanhedrim,</hi> ſeeing the <hi>Doctors,</hi> and Expounders of the Law, the <hi>Scribes</hi> and <hi>Phariſees</hi> believed not on him, but did unanimouſly reject him as a vile <hi>Impoſtor,</hi> they muſt be certainly deceived, who apprehended otherwiſe concerning him, becauſe they followed the verdict of the ignorant, and giddy multitude, in oppoſition to the better judgments, and the mature deliberations of their <hi>Church Guides,</hi> and learned <hi>Clerks.</hi>
+            </p>
+            <p>Now amongſt all the Arguments by which the <hi>Emiſſaries</hi> of the <hi>Church</hi> of <hi>Rome</hi> endeavour to beguile unſtable ſouls, and beget in them a ſuſpi<g ref="char:EOLhyphen"/>tion that they have been ſeduced from the <hi>Church,</hi> none is more plauſible than this which by the <hi>Phariſees</hi> is here laid down. I therefore ſhall endeavour,</p>
+            <pb n="5" facs="tcp:37721:5"/>
+            <p n="1">1. To propound the Argument which is here urged by the <hi>Phariſees</hi> to prove our <hi>Jeſus</hi> could not be the true <hi>Meſſiah,</hi> in its full ſtrength and vigor. And</p>
+            <p n="2">2. To ſhew that what the <hi>Papiſts</hi> do produce to prove that <hi>Proteſtants</hi> muſt be deceived, is exactly parallel to what the <hi>Phariſees</hi> did, or might produce againſt our <hi>Saviour,</hi> and the ſame arguments might with equal reaſon have been urged by the unbelieving <hi>Jews</hi> againſt our <hi>Lords Diſciples,</hi> and thoſe who laid the firſt foundations of, and became early converts to the <hi>Chriſtian</hi> Faith; As they are urged by the <hi>Papiſts</hi> againſt our departure from the <hi>Church</hi> of <hi>Rome.</hi>
+            </p>
+            <milestone type="tcpmilestone" unit="unspecified" n="II"/>
+            <p>Now the Argument contained in the Text is this, <hi>viz.</hi> You muſt be certainly deceived if you believe that <hi>Jeſus</hi> is the <hi>Chriſt;</hi> Becauſe you do, by entertaining this perſwaſion, contradict the judgment of your <hi>Church Guides</hi> which God hath ſet over you. For they have frequently aſſem<g ref="char:EOLhyphen"/>bled for the determination of this grand debate, <hi>Whether this Jeſus was the Meſſiah promiſed to the Jews or not,</hi> and they have conſtantly determined that he was not the <hi>Chriſt.</hi> And have unani<g ref="char:EOLhyphen"/>mouſly concluded that he deſerved to be puniſh<g ref="char:EOLhyphen"/>ed as a vile <hi>Impoſtor,</hi> and that all who did confeſs that he was the <hi>Chriſt,</hi> ſhould be <hi>excommunicated.</hi> In an aſſembly conſiſting of <hi>Chief Prieſts,</hi> and <hi>Phariſees,</hi> they poſitively declare that <hi>Chriſt</hi> could be no <hi>Prophet</hi> becauſe he was a <hi>Galilean.</hi>
+               <note place="margin">John vii. 52. Verſe 41, 42.</note> This all, ſay they, who ſearch the Scriptures may plainly ſee. Moreover they determine in my Text,
+<note place="margin">Verſe 47, 48, 49.</note> that all who ſo eſteemed him were them<g ref="char:EOLhyphen"/>ſelves deceived, and that they lay expoſed to this deluſion for want of knowledge in the Law. In the <hi>ninth Chapter</hi> of St. <hi>John,</hi>
+               <note place="margin">Verſe 16.</note> the <hi>Phariſees</hi> again
+<pb n="6" facs="tcp:37721:6"/>declare that <hi>this man</hi> could not be <hi>of God, becauſe he did not keep the Sabbath.</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. John ix. 22. xii. 42.</note> Moreover theſe <hi>Pha<g ref="char:EOLhyphen"/>riſees,</hi> and other <hi>Rulers</hi> of the <hi>Church,</hi> determi<g ref="char:EOLhyphen"/>ned and <hi>agreed</hi> together, <hi>that whoſoever did confeſs that Jeſus was the Chriſt, ſhould ſuffer excommuni<g ref="char:EOLhyphen"/>cation.</hi> They therefore thought themſelves infal<g ref="char:EOLhyphen"/>libly certain,
+<note place="margin">Diſc. chap. 4. S. 64, 65, 69.70.</note> (if excommunication be as <hi>R. H.</hi> informs us, an evidence of a claim to be infallible) that <hi>Chriſt</hi> was not the true <hi>Meſſiah.</hi>
+               <note place="margin">Mark iii. 22. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> Elſewhere the <hi>Scribes</hi> and <hi>Phariſees</hi> do poſitively conclude that Chriſt did only <hi>Caſt out Devils through Beel<g ref="char:EOLhyphen"/>zebub.</hi>
+               <note place="margin">Joh. xi. 47, 50, 53.</note> After ſome days they again call a <hi>Coun<g ref="char:EOLhyphen"/>cil</hi> and there determine that it was fit that <hi>Chriſt</hi> ſhould die. This the <hi>High-Prieſt</hi> declares, and all the <hi>Phariſees,</hi>
+               <note place="margin">Luke xxii. 66.</note> and the <hi>Chief-Prieſts</hi> agree to execute. A full Aſſembly conſiſting of the <hi>High-Prieſts,</hi> and all the <hi>Chief-Prieſts, Presbyters,</hi> and <hi>Scribes, Chriſt</hi> being brought before their <hi>Council,</hi> do with one voice declare that he was worthy to die as a <hi>Blaſphemer,</hi> and alſo that <hi>by their Law he ought to die, becauſe he made himſelf the Son of God.</hi> After his death the <hi>Chief-Prieſts,</hi> and the <hi>Phariſees,</hi> with one conſent pronounce him a <hi>deceiver.</hi> When the <hi>Diſciples</hi> began to witneſs that he was riſen from the dead,
+<note place="margin">Matth. xxvii. 63.</note> the <hi>High-Prieſts, Rulers, Elders, Scribes,</hi> and all the kindred of the <hi>High-Prieſt</hi> aſſemble at <hi>Jeruſalem,</hi> and ſtrictly do command them <hi>not to ſpeak at all,
+<note place="margin">Act. iv. 6, 18.</note> or teach in the name of Jeſus.</hi> Soon after the <hi>High-Prieſt,</hi> the <hi>Sanhedrim,</hi> and all the <hi>Elders</hi> of <hi>Iſrael,</hi>
+               <note place="margin">Act. v. 40.</note> being met in Council, repeat the ſame command, and chaſtiſe the <hi>Apo<g ref="char:EOLhyphen"/>ſtles</hi> for their diſobedience to it. If therefore the decrees of many <hi>Councils,</hi> conſiſting of the <hi>Guides</hi> of the whole <hi>Jewiſh Church,</hi> may be eſteemed ſuf<g ref="char:EOLhyphen"/>ficient to decide a Controverſie, it muſt be cer<g ref="char:EOLhyphen"/>tain that <hi>Jeſus Chriſt</hi> was not the true <hi>Meſſiah</hi> pro<g ref="char:EOLhyphen"/>miſed
+<pb n="7" facs="tcp:37721:6"/>to the <hi>Jews,</hi> but a <hi>Deceiver</hi> and <hi>Blaſphemer.</hi> Now as a <hi>Romaniſt,</hi>
+               <note place="margin">Rational Ac<g ref="char:EOLhyphen"/>count, Diſc. 1. Chap. 6. S. 59. P. 58.</note> having produced five <hi>Provin<g ref="char:EOLhyphen"/>cial,</hi> and two <hi>General Councils,</hi> falſly ſo called, for that portentous Doctrine of Tranſubſtantia<g ref="char:EOLhyphen"/>tion, ſaith, <hi>If the Decrees of ſo many Synods, ſo often weighing the Adverſaries reaſons and evidences, was not ſufficient for ſetling ſuch a point, at leaſt as to the obedience of future ſilence, and noncontradi<g ref="char:EOLhyphen"/>ction, and as to ſuffering the Church to enjoy her peace, what can hereafter be ſufficient? Or can we ever hope that any Controverſie ſhall be finally determined, or ended by any future Council, if this,</hi> (of the <hi>Meſſiah</hi>) <hi>is not by theſe forepaſt? Can there be any ground here to queſtion the integrity, or lawful proceedings of ſo many Councils, all concurring in the ſame judgment (for a Corporal preſence,</hi> ſaith the <hi>Romaniſt,</hi> that <hi>Chriſt was a Deceiver,</hi> ſaith the <hi>Jew?) Or could there be any new light in this point attainable in</hi> thoſe <hi>times,</hi> by the private perſon, or <hi>Chriſtian</hi> Convert <hi>which thoſe</hi> (Guides of the <hi>Jewiſh Church,</hi> who con<g ref="char:EOLhyphen"/>demned your <hi>Jeſus</hi>) <hi>were not capable, or had no no<g ref="char:EOLhyphen"/>tice of.</hi>
+            </p>
+            <p n="2">2. They who ſo often, and ſo unanimouſly condemned your <hi>Saviour,</hi> and his Doctrine (ſaith the <hi>Jew</hi>) were the <hi>Church-Guides</hi> by God ap<g ref="char:EOLhyphen"/>pointed
+<note place="margin">Levit. x. 11. Deut. xxxiii. 10. Mal. ii. 7. Ibid.</note> 
+               <hi>to teach the Children of Iſrael all the Sta<g ref="char:EOLhyphen"/>tutes which the Lord had ſpoken to them by the hand of</hi> Moſes, <hi>to teach</hi> Jacob <hi>his judgments, and</hi> Iſrael <hi>his Law,</hi> and by whoſe <hi>lips</hi> the <hi>knowledg</hi> of it was to be <hi>preſerved.</hi> They were the men who are in Scri<g ref="char:EOLhyphen"/>pture ſtyled the <hi>Meſſengers,</hi> or the <hi>Ambaſſadors of the Lord of Hoſts;</hi> that is, the men appointed by him to declare his meſſage to the people.
+<note place="margin">Deut. xvii. 8, 12.</note> They were the men Ordained to <hi>Miniſter before the Lord in every Controverſial matter,</hi>
+               <note place="margin">2 Chron. xix. 8.</note> men who were <hi>ſet for the judgment of the Lord and for Controverſies, In Con<g ref="char:EOLhyphen"/>troverſie
+<pb n="8" facs="tcp:37721:7"/>they ſhall ſtand in judgment,</hi>
+               <note place="margin">Ezek. xliv. 24. Deut. xxi. 5.</note> ſaith the Lord, and <hi>by their word ſhall every Controverſie be tried.</hi>
+            </p>
+            <p>
+               <note place="margin">Deut. xvii. 12.</note>Wherefore to act in oppoſition to the judgment of theſe <hi>Guides,</hi> muſt be to act preſumptuouſly, as God himſelf declares, to deſpiſe the verdict of Gods <hi>Meſſengers,</hi> and in a Controverſial matter of the higheſt moment, to reject the ſentence of thoſe men, who are by God Ordained to define it, and by whoſe words, according to his Ordi<g ref="char:EOLhyphen"/>nance, it muſt be tried.</p>
+            <p n="3">3. As for the common people, who in this matter did oppoſe their private judgments to the Decrees of their <hi>Church Guides,</hi> not acquieſcing in their Conciliar determinations, that your <hi>Je<g ref="char:EOLhyphen"/>ſus</hi> was not the true <hi>Meſſiah,</hi> they, ſaith the <hi>Jew,</hi> muſt act againſt that Rule which both the Law of <hi>Moſes,</hi> and the <hi>Prophets</hi> have preſcribed, for by that Law they are commanded under pain of death when any Controverſie ſhould ariſe among them <hi>to go to the Prieſts and Levites, and to the Judg then living,
+<note place="margin">Deut. xvii. 8.12.</note> to enquire the ſentence of judgment from his mouth, and to do according to the ſentence which they ſhall ſhew them, and according to all that they inform them, not declining from it to the right hand, or the left.</hi>
+               <note place="margin">Hag. ii. 11. Mal. ii. 7.</note> They by the <hi>Prophets</hi> are inſtructed to <hi>ask the Prieſts concerning the Law,</hi> and to <hi>ſeek the knowledg of it from their mouths.</hi> They therefore ſtood obliged to aſſent to the determinations of the <hi>Sanhedrim,</hi> and the Conciliar Decrees of <hi>Prieſts</hi> and <hi>Levites, Scribes</hi> and <hi>Phariſees</hi> confirmed by the <hi>High-Prieſt,</hi> and ſo they were obliged to believe that according to the true intent and meaning of the Law, your <hi>Jeſus</hi> could not be the true <hi>Meſſiah.</hi> And conſe<g ref="char:EOLhyphen"/>quently they muſt err who quitting the Deciſions of the <hi>Phariſees,</hi> and other <hi>Rulers</hi> of the <hi>Church,</hi> embrace that Tenet of the ignorant and giddy multitude.</p>
+            <pb n="9" facs="tcp:37721:7"/>
+            <milestone type="tcpmilestone" unit="unspecified" n="III"/>
+            <p>Thus the <hi>Jew</hi> pleads from Scripture, againſt our Bleſſed Lord. And if you do compare theſe pleas, and others of like nature, which might be offered from the Scriptures by the <hi>Jew,</hi> with what the <hi>Romaniſts</hi> do offer for the infallibility of any of their <hi>Councils,</hi> you will ſoon find that all their pleas for this infallibility from the <hi>New Teſtament,</hi> are paralleled, or rather over-ballanced with pla<g ref="char:EOLhyphen"/>ces of like nature in the <hi>Old,</hi> which do more ſtrongly plead for the infallibility of the <hi>High-Prieſt,</hi> and <hi>Rulers</hi> of the <hi>Jewiſh Church.</hi> For,</p>
+            <p n="1">1.
+<note place="margin">Matth. xxviii. 20.</note> Doth the <hi>Romaniſt</hi> plead <hi>Chriſts</hi> promiſe to be <hi>for ever with his Church?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> The <hi>Jews</hi> had equal reaſon to expect <hi>Gods</hi> preſence among them,
+<note place="margin">Exod. xxix. 42, 43, 44, 45. Mic. iv. 7. Pſal. cxxxii. 13, 14. 2 Chron. vii. 16.</note> becauſe he promiſed <hi>to dwell among the children of</hi> Iſrael, <hi>to meet them at the Tabernacle of the Congregation,</hi> and <hi>there ſpeak with them,</hi> to <hi>Reign over them in</hi> Zion <hi>from hence<g ref="char:EOLhyphen"/>forth and for ever.</hi> He <hi>choſe</hi> Zion <hi>for his habitation,</hi> and ſaid of it, <hi>this is my reſt for ever, here will I dwell,</hi> and of Jeruſalem, <hi>that he would put his name for ever in that place, and that his eyes, and his heart ſhould be there for ever.</hi>
+            </p>
+            <p n="2">2.
+<note place="margin">Matth. xviii. 20.</note> Do they add that <hi>Chriſt</hi> hath promiſed that <hi>where two or three are gathered together in his name, he will be in the midſt of them?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi>
+               <note place="margin">Pſal. cxxxiv. 3. Exod. xx. 24.</note> God alſo promiſed to the <hi>Jews</hi> that he would <hi>bleſs them out of</hi> Zion, and that <hi>whereſo<g ref="char:EOLhyphen"/>ever he did record his name, there would he come and bleſs his people,</hi>
+            </p>
+            <p n="3">3.
+<note place="margin">Luke x. 16. Matth. xviii. 17.</note> Do they alledg theſe ſayings of our Lord to his <hi>Diſciples,</hi> viz. <hi>He that heareth you heareth me.</hi> He who neglects to hear the <hi>Church</hi> ſhall be ac<g ref="char:EOLhyphen"/>counted as <hi>a Heathen and a Publican.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi>
+               <note place="margin">Deut. xvii. 12.</note> God alſo ſaid that <hi>he who will not hearken to the Prieſt that ſtands to miniſter before the
+<pb n="10" facs="tcp:37721:8"/>Lord, even that man ſhall die for his preſumption.</hi>
+            </p>
+            <p n="4">4.
+<note place="margin">Heb. xiii. 7, 17.</note> Do they ſay that <hi>Chriſts Apoſtles</hi> command<g ref="char:EOLhyphen"/>ed <hi>Chriſtians</hi> to <hi>obey thoſe that had the rule over them,</hi> and <hi>to follow their faith?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi>
+               <note place="margin">Matth. xxiii. 3.</note> Our Jeſus did command his hearers to <hi>do all that the Scribes and Phariſees did ſay unto them,</hi> and that becauſe of their Authority derived from <hi>Moſes,</hi>
+               <note place="margin">Deut. xvii. 10.</note> and God himſelf commanded all his people to do <hi>according to all that they ſhould be in<g ref="char:EOLhyphen"/>formed of by the Prieſts.</hi> And</p>
+            <p n="5">5.
+<note place="margin">John xvi. 13. Chap. xiv. 26.</note> Do they plead <hi>Chriſts</hi> promiſe made to his <hi>Apoſtles</hi> that <hi>he would ſend the Spirit of Truth to guide them into all Truth?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Whereas this promiſe doth perſonally belong to the <hi>Apoſtles,</hi>
+               <note place="margin">John xiv. 26. John xvi. 13.</note> and not to their <hi>Succeſſors</hi> (for it is a promiſe <hi>to bring to their remembrance</hi> by his Spirit, <hi>what he</hi> before <hi>had ſaid to them</hi> and to <hi>ſhew them things to come,</hi> to which <hi>Spirit</hi> of <hi>Propheſie</hi> the <hi>Roman Doctors</hi> do not now pre<g ref="char:EOLhyphen"/>tend.) I ſay whereas this promiſe did belong to the <hi>Apoſtles</hi> only, God ſtood obliged by Cove<g ref="char:EOLhyphen"/>nant to cauſe his holy Spirit to remain among the <hi>Rulers</hi> of the <hi>Jewiſh Church.</hi>
+               <note place="margin">Hag. ii. 5.</note> For thus he ſpeaks, <hi>according to the word that I covenanted with you, when ye came out of Aegypt, ſo my Spirit re<g ref="char:EOLhyphen"/>mains among you.</hi>
+               <note place="margin">Numb. xi. 17.</note> Moreover God promiſed to the <hi>Sanhedrim</hi> that <hi>he would put the ſpirit of</hi> Moſes <hi>upon them,</hi> and in compliance with that promiſe he came down in a Cloud, and took the <hi>ſpirit</hi> which was upon <hi>Moſes,</hi> and gave it to the ſeventy Elders, ſo that <hi>they Propheſied and did not ceaſe.</hi> Or,</p>
+            <p n="6">6. Do they argue for their infallibility, becauſe the <hi>Church</hi> is ſtiled by St. <hi>Paul,
+<note place="margin">1 Tim. iii. 15.</note> the pillar, and the ground of truth,</hi> by reaſon of that truth which is preſerved by her Governours?</p>
+            <pb n="11" facs="tcp:37721:8"/>
+            <p>
+               <hi>Anſw.</hi> God alſo hath declared touching his <hi>Prieſts,</hi>
+               <note place="margin">Mal. ii. 6. Zech. viii. 3.</note> that <hi>the law of truth was in their mouth,</hi> and of <hi>Jeruſalem</hi> that <hi>ſhe ſhould be called the City of truth.</hi> And if the <hi>Church</hi> of <hi>Judah</hi> hath ſince failed, ſo alſo hath the <hi>Church</hi> of <hi>Epheſus,</hi> of which alone St. <hi>Paul</hi> affirmeth that it was <hi>the pillar, and the ground of truth.</hi>
+            </p>
+            <p n="7">7.
+<note place="margin">Eph. iv. 11, 12.</note> Do they conclude that the <hi>Church-Guides</hi> muſt be infallible, becauſe <hi>God hath placed in the Church ſome Apoſtles, ſome Prophets, ſome Paſtors and ſome Teachers for the perfecting of the Saints, for the work of the Miniſtry, for the edifying of the body of Chriſt, that we henceforth be no more chil<g ref="char:EOLhyphen"/>dren toſſed to and fro, and carried about with every wind of Doctrine?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Were not the <hi>Jewiſh Prieſts</hi> placed alſo for this end, for the work of their <hi>Miniſtry,</hi> the perfecting of their <hi>Saints,</hi> the edifying of their Flocks? Were not their lips to <hi>preſerve</hi> that <hi>know<g ref="char:EOLhyphen"/>ledg</hi> which ſhould reſtrain the people from their errors?
+<note place="margin">Ezek. xxxiv. 4.</note> Were not they appointed <hi>to heal that which was ſick and bring again that which was ſtrayed?</hi> Or,</p>
+            <p>Laſtly, Do they triumph in that promiſe of our Lord,
+<note place="margin">Matth. xvi. 18.</note> that the <hi>Gates of Hell ſhould not prevail againſt the Church?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi>
+               <note place="margin">Jer. xxxiii. 20, 21.</note> God alſo promiſed that <hi>his Covenant made with his Levites, Prieſts and Miniſters,</hi> ſhould be as certain and perpetual, as that of <hi>day</hi> and <hi>night.</hi> So that I need not add, that by this Phraſe,
+<note place="margin">Eſſay. Chap. 3.</note> 
+               <hi>Chriſt</hi> only promiſeth <hi>that pious Chriſtians ſhall not for ever be detained under the power of the grave,</hi> which I have elſewhere ſhewed, to be the natural, and only import of theſe words, <hi>the Gates of Hell ſhall not prevail againſt the Church.</hi>
+            </p>
+            <pb n="12" facs="tcp:37721:9"/>
+            <p>Moreover the plain meaning of the foregoing words, <hi>viz. Thou art Peter, and upon this rock will I build my Church,</hi> is, as
+<note n="a" place="margin">
+                  <hi>Si quia dix<g ref="char:EOLhyphen"/>erit Petro Do<g ref="char:EOLhyphen"/>minus, Super hanc petram aedificabo Ec<g ref="char:EOLhyphen"/>cleſiam meam, id circo praeſumis &amp; ad te deri<g ref="char:EOLhyphen"/>vaſſe ſolvendi &amp; ligandi po<g ref="char:EOLhyphen"/>teſtatem, qualis es evertens &amp; commutans ma<g ref="char:EOLhyphen"/>nifeſtum domini intentionem perſonaliter</hi> (N.B.) <hi>hoc Petro conferen<g ref="char:EOLhyphen"/>tem, ſic enim &amp; exitus docet, in ipſo Eccleſia exſtructa eſt, id eſt, per ipſum.—ipſe primus in Chriſti Baptiſmo reſeravit aditum caeleſtis Regni. De Pudicitia</hi> cap. 21. p. 574. B.</note> 
+               <hi>Tertullian</hi> well informs us, only this: Thou who haſt firſt of all my Di<g ref="char:EOLhyphen"/>ſciples acknowledged me to be the <hi>Chriſt,</hi> thou ſhalt firſt preach this Doctrine to the World, and, by ſo doing, lay the firſt foundations of a <hi>Chriſtian Church.</hi> Which he accordingly performed, firſt laying the foundation of a
+<note n="b" place="margin">Acts 2.41.</note> 
+               <hi>Church</hi> among the <hi>Jews</hi> by the converſion of three thouſand ſouls. And after laying the foundation of a <hi>Church</hi> a<g ref="char:EOLhyphen"/>mongſt the <hi>Gentiles,</hi> by the converſion of <hi>Corneli<g ref="char:EOLhyphen"/>us,</hi> and his friends, <hi>Chriſt</hi> having, to fulfil his pro<g ref="char:EOLhyphen"/>miſe,
+<note n="c" place="margin">Acts 15.7.</note> 
+               <hi>made choice of him among the reſt of the Apo<g ref="char:EOLhyphen"/>ſtles, that the Gentiles by his mouth ſhould hear the word of the Goſpel, and believe.</hi> Now to pretend to be St. <hi>Peters Succeſſor</hi> in this matter, is in effect to ſay, that the foundations of a <hi>Chriſtian Church</hi> are not yet laid.</p>
+            <p>If therefore <hi>Roman Catholicks</hi> conclude from theſe ambiguous and obſcure places for the infalli<g ref="char:EOLhyphen"/>bility of <hi>Councils,</hi> or of the <hi>major</hi> part of the <hi>Church guides</hi> concurring with the <hi>Pope</hi> in any Sentence or Decree, although theſe places do not ſpeak one ſyllable of any <hi>Pope,</hi> or <hi>major</hi> part of the <hi>Church-Guides,</hi> and much leſs of the <hi>Romiſh Prelats,</hi> and leſs of their <hi>infallible</hi> aſſiſtance, what <hi>Ovations</hi> and <hi>Triumphs</hi> would they have made, had it been ſaid expreſly of their <hi>Cardinals</hi> and <hi>Councils,</hi> as it is ſaid of <hi>Jewiſh Prieſts,</hi> that <hi>they were ſet for judg<g ref="char:EOLhyphen"/>ment and for Controverſie:</hi> had <hi>God</hi> fixed his glo<g ref="char:EOLhyphen"/>rious preſence at <hi>Rome,</hi> as he did at <hi>Jeruſalem?</hi>
+               <pb n="13" facs="tcp:37721:9"/>and ſetled there <hi>a ſeat of Judgment,</hi> and a conti<g ref="char:EOLhyphen"/>nual <hi>Court</hi> of higheſt <hi>judicature,</hi> as was that <hi>San<g ref="char:EOLhyphen"/>hedrim</hi> which in <hi>Jeruſalem</hi> was ſetled? had he dwelt in St. <hi>Peters</hi> as he dwelt in the <hi>Temple?</hi> had he left with them, as he did with the <hi>Jewiſh Prieſts,</hi> a ſtanding <hi>Oracle,</hi> a <hi>
+                  <g ref="char:V">Ʋ</g>rim</hi> and a <hi>Thummim</hi> to conſult with on all occaſions? ſo that this plea being much ſtronger for the infallibility of the <hi>Superiors</hi> of the <hi>Jewiſh Church,</hi> than for the infal<g ref="char:EOLhyphen"/>libility of the whole <hi>Weſtern Church,</hi> or any of its <hi>Councils,</hi> the <hi>Roman Doctors</hi> muſt acknow<g ref="char:EOLhyphen"/>ledg either that they fallaciouſly urge it a<g ref="char:EOLhyphen"/>gainſt <hi>Proteſtants,</hi> or muſt confeſs that it ſtands alſo good againſt the <hi>Chriſtian,</hi> and is a confirma<g ref="char:EOLhyphen"/>tion of all thoſe traditions which were condem<g ref="char:EOLhyphen"/>ned by our <hi>Saviour,</hi> and a ſufficient plea for all thoſe errors and corruptions, which, as the <hi>Pro<g ref="char:EOLhyphen"/>phets</hi> do complain, were generally taught and practiſed by the <hi>Church-Guides,</hi> in the declining Ages of the <hi>Jewiſh Church.</hi>
+               <note place="margin">
+                  <hi>V. Stillingfl.</hi> Sermon upon Acts 24.14. p. 39.</note> For if theſe Argu<g ref="char:EOLhyphen"/>ments be good now, they were ſo then, and if they were good then, for ought that I can ſee, the <hi>High Prieſt,</hi> and the <hi>major</hi> part of the <hi>Church Ru<g ref="char:EOLhyphen"/>lers</hi> of the <hi>Jews</hi> were always in the right, and <hi>Chriſt</hi> and his <hi>Apoſtles,</hi> with the <hi>Holy Prophets,</hi> muſt be in the wrong.</p>
+            <milestone type="tcpmilestone" unit="unspecified" n="IV"/>
+            <p>Moreover had we no evidence from <hi>Scripture,</hi> may the <hi>Jew</hi> ſay in proſecution of this Argument, reaſon ſeems very ſtrongly to conclude for this ſubmiſſion of the common people, and ſome few <hi>Prieſts</hi> to the concurring judgments of their <hi>Church-Guides,</hi> and of the <hi>major</hi> part of <hi>Jews,</hi> who joyned with then in condemnation of your <hi>Jeſus,</hi> as a <hi>Blaſphemer</hi> and falſe <hi>Prophet,</hi> and of his followers as <hi>Hereticks</hi> and <hi>Schiſmaticks,</hi> or men who worſhipped <hi>God</hi> after that way which by
+<pb n="14" facs="tcp:37721:10"/>the <hi>Jews</hi> was called <hi>Hereſie,</hi>
+               <note place="margin">Acts 24.14. ibid. <hi>v.</hi> 5.</note> and were <hi>Ring-leaders</hi> of a <hi>Sect.</hi> For ſtill to argue after the manner of the <hi>Romiſh Doctors.</hi>
+            </p>
+            <p n="1">1. Is it not reaſonable to conceive that they who were Gods <hi>Miniſters</hi> appointed for this very thing to judg in controverſial matters, and to make tryal of ſuch as did pretend to <hi>Propheſie,</hi> as was the <hi>Jewiſh Sanhedrim:</hi> I ſay, is it not rea<g ref="char:EOLhyphen"/>ſonable to conceive that the aſſiſtance of the Ho<g ref="char:EOLhyphen"/>ly Spirit ſhould be vouchſafed to theſe <hi>Rulers</hi> of the <hi>Church,</hi> and <hi>Doctors</hi> of the Law, rather than to thoſe common people who bore no ſuch relati<g ref="char:EOLhyphen"/>on to <hi>God,</hi> had no commiſſion from him to di<g ref="char:EOLhyphen"/>rect others in the meaning of his word, but had ſo many, and ſuch expreſs injunctions to ſeek it at the mouth of their <hi>Church-Guides?</hi> Can we imagin that theſe <hi>Phariſees</hi> and <hi>Rulers</hi> ſhould be the men ordained by <hi>God</hi> for Controverſies, and by whoſe words they muſt be tried; and yet ſhould be ſuch blind and ſtupid <hi>Guides,</hi> as by your <hi>Jeſus</hi> they were ſaid to be, that <hi>he who was led by them muſt fall into the ditch?</hi>
+            </p>
+            <p>Moreover were no aſſiſtance from above to be expected in this caſe, is it not reaſonable to think that theſe great <hi>Doctors</hi> of the Law, thoſe numerous <hi>Prieſts</hi> who made it their whole buſineſs to ſtudy,
+<note place="margin">Vid. <hi>Anſw. in</hi> Numb. xi. 16, 17.</note> and ſearch out the meaning of the Law of <hi>Moſes,</hi> thoſe Members of the <hi>Sanhedrim,</hi> who were ſtill choſen out of the moſt Learned <hi>Perſons,</hi> and the moſt eminent for wiſdom, I ſay, may we not reaſonably conceive ſuch Perſons to be fitter and more able <hi>Judges</hi> of the ſenſe and meaning of that Law, or of the truth of any miracles pre<g ref="char:EOLhyphen"/>tended to be wrought by <hi>Chriſt,</hi> or his <hi>Apoſtles,</hi> than was that rude and giddy Multitude which had no knowledg of the Law? <hi>They therefore
+<pb n="15" facs="tcp:37721:10"/>conſidering their Superiors ſtudy and Learning in ſuch things Divine, and alſo their own ignorance;
+<note place="margin">
+                     <hi>R.H.</hi> diſcourſe Chap. 13. p. 13.</note> they con<g ref="char:EOLhyphen"/>ſidering both the ſpecial ordination, and commiſſion of their Superiors from</hi> God <hi>to teach them in neceſſary truths, and his charge laid upon them to obey their Eccleſiaſtical Superiors, ought to depend upon, and adhere to their directions ſo much the more in any point of faith, by how much it is eſteemed more neceſſary, as wherein there is a much greater hazard if they ſhould err.</hi>
+            </p>
+            <p n="3">3. All that your Goſpel doth ſuggeſt, or reaſon may pretend for the exemption of the firſt <hi>Jewiſh</hi> Converts from obedience to theſe decrees of their <hi>Superiors</hi> in the <hi>Jewiſh Church,</hi> may, ſaith the <hi>Jew,</hi> be fully anſwered from the plain Principles, and almoſt in the words of <hi>Roman Catholicks.</hi> For to proceed in the expreſſions of <hi>R. H.</hi> the <hi>Guide in Controverſies,</hi> with very little variation of them.</p>
+            <milestone type="tcpmilestone" unit="unspecified" n="V"/>
+            <p n="1">1. Will you affirm that all the <hi>Prieſts</hi> and <hi>Ru<g ref="char:EOLhyphen"/>lers, Scribes</hi> and <hi>Phariſees,</hi> and the whole <hi>Sanhe<g ref="char:EOLhyphen"/>drim</hi> acted againſt their faith and conſcience, in theſe determinations by which your <hi>Jeſus</hi> was condemned as an <hi>Impoſtor?</hi>
+            </p>
+            <p>Anſw.
+<note place="margin">Diſcourſe 1. Ch. 3. §. 37, 38. p. 26.</note> 
+               <hi>R. H.</hi> will tell you <hi>there is a moral cer<g ref="char:EOLhyphen"/>tainty that ſo many ſuch perſons cannot conſpire in ſuch a matter,</hi> viz. <hi>a neceſſary to Salvation, to falſifie the truth againſt their own belief and conſcience, to their Subjects and Poſterity, with an Anathema to all diſ<g ref="char:EOLhyphen"/>ſenters,</hi> or an excommunication of all who preach<g ref="char:EOLhyphen"/>ed, and believed that <hi>Chriſt</hi> was the <hi>Meſſiah</hi> promi<g ref="char:EOLhyphen"/>ſed to the <hi>Jews,</hi> and was already riſen from the dead, when their own conſciences could tell them that theſe things were true.
+<note place="margin">Ibid. p. 25.</note> 
+               <hi>If any can be ſo un<g ref="char:EOLhyphen"/>charitable as to credit of them ſo great a wickedneſs, that the Supream Councils of the</hi> (Jewiſh) <hi>Church
+<pb n="16" facs="tcp:37721:11"/>ſhould with deſign decree an error contrary to their faith,</hi> (or knowledg) <hi>in this neceſſary matter, and then enjoyn all their Subjects to believe it un<g ref="char:EOLhyphen"/>der Anathema,</hi> he muſt believe that <hi>they moſt cer<g ref="char:EOLhyphen"/>tainly do devote themſelves to eternal perdition.</hi> And therefore, <hi>if not out of Charity, or reverence to ſuch ſacred perſons, yet from the irrationality of ſuch a defence,</hi> it is <hi>much better to paſs over this objection.</hi>
+            </p>
+            <p n="2">2. Will you ſay that theſe <hi>Superiors</hi> were only to be appealed to in doubtful matters, and that this thing, <hi>whether the Scriptures declared your Je<g ref="char:EOLhyphen"/>ſus to be the true Meſſiah,</hi> was not doubtful?</p>
+            <p>Anſw. <hi>R. H.</hi> informs you that <hi>a right judg<g ref="char:EOLhyphen"/>ment cannot but account all thoſe places doubtful,
+<note place="margin">Diſc. Chap. 3. §. 44. p. 29.</note> in the ſenſe whereof either the Antient or preſent major part of Chriſtianity are of a contrary judgment from himſelf.</hi> That muſt be therefore doubtful, accor<g ref="char:EOLhyphen"/>ding to the ground and reaſon of this <hi>Rule,</hi> which you preſume not to be doubtful, ſince it was that in which the <hi>major</hi> part of the then pre<g ref="char:EOLhyphen"/>ſent <hi>Jewiſh Church</hi> was of a contrary judgment from the <hi>Chriſtian</hi> Convert.</p>
+            <p n="3">3. Will you plead in favour of the <hi>vulgar,</hi> that they were bound to hearken to theſe <hi>Jewiſh Guides</hi> no longer than they followed the <hi>Rule</hi> of <hi>Scripture?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi>
+               <note place="margin">Ibid. p. 28.</note> Be it ſo, But ſaith <hi>R. H. Who is ap<g ref="char:EOLhyphen"/>pointed judg of theſe ſupreme Judges, when they tranſgreſs againſt this Rule? their Subjects? who are from them to learn the ſenſe of the Rule where dif<g ref="char:EOLhyphen"/>ficult, and diſputed, and who are bidden to follow their faith? The right exerciſe of Judgment will not judge ſo.</hi> For if the <hi>vulgar</hi> may paſs this judg<g ref="char:EOLhyphen"/>ment of the Decrees of many <hi>Councils,</hi> and the concurring judgment of their <hi>Superiors</hi> and <hi>Church Guides,</hi> I hope the matter muſt be evident even to
+<pb n="17" facs="tcp:37721:11"/>the <hi>vulgar</hi> ſort that notwithſtanding the contrary judgment of <hi>Chief Prieſts</hi> and <hi>Rulers, Scribes, Phariſees</hi> and <hi>Elders,</hi> and almoſt all the <hi>Jewiſh</hi> Nation, that ſenſe of <hi>Scripture</hi> muſt be falſe, which their <hi>Eccleſiaſtical Guides</hi> alledged, to prove that <hi>Jeſus</hi> was not the true <hi>Meſſiah,</hi> and that <hi>ac<g ref="char:EOLhyphen"/>cording to their Law he was to die,</hi> and that ſenſe of the <hi>Scripture</hi> muſt be true which by the <hi>Apo<g ref="char:EOLhyphen"/>ſtles,</hi> and their few Converts, was alledged to prove that <hi>Jeſus</hi> was the <hi>Meſſiah</hi> promiſed to the <hi>Jew.</hi>
+               <note place="margin">Ibid. p. 143.</note> Now <hi>how vainly,</hi> ſaith <hi>R. H. doth any one pretend, or promiſe himſelf a certainty of any thing wherein</hi> ſo many <hi>Councils,</hi> and <hi>a much major part of the Church, having all the ſame means of certainty as he, judgeth contrary?
+<note place="margin">Rational ac<g ref="char:EOLhyphen"/>count. diſc. 3. Chap. 4. §. 42. p. 179.</note> where it ſeems the Scripture may be ſo doubtful that the ſenſe of the</hi> (then) <hi>Ca<g ref="char:EOLhyphen"/>tholick Church, or its</hi> greateſt <hi>Councils, they ſay, can be to them no certain or infallible interpreter of it, where the judgment or common Reaſon of</hi> theſe <hi>Coun<g ref="char:EOLhyphen"/>cils thinks it ſelf ſo certain of the contrary, as to Ana<g ref="char:EOLhyphen"/>thematiſe diſſenters,</hi> or caſt them out of the Church. <hi>On what grounds here theſe</hi> private <hi>Perſons, or</hi> new erected <hi>Churches could aſſure themſelves of their own ſenſe of Scripture to be true, they having left that of the Churches Councils, and of a major part of</hi> (Jews) <hi>who alſo judged their ſenſe falſe, I underſtand not. Surely they will not ſay, they have this certainty from the Scripture, becauſe the true ſenſe thereof is the thing ſo mainly queſtioned, and the certainty or infal<g ref="char:EOLhyphen"/>libility of the traditive ſenſe of the</hi> (Jewiſh) <hi>Church they renounced, and then, which only is left, their own judgment, or their own common reaſon, when that of</hi> their greateſt <hi>Councils, or major part of</hi> their <hi>Church-Guides, differs from it, one would think ſhould be a more fallible ground to them, than the judgment or common reaſon of the Church.
+<pb n="18" facs="tcp:37721:12"/>For</hi> a man <hi>to preſume himſelf certain in a matter of faith,
+<note place="margin">Ibid. diſc. 2. Chap. 2. §. 15. p. 95.</note> or in his own ſenſe of Scripture, (though the literal expreſſion he never ſo clear,) where ſo many Learned and his Superiours, (comparing other Texts,</hi> &amp;c.) <hi>are of a contrary judgment, this,</hi> ſaith <hi>R. H. is the ſame as if in a matter of ſence, a dim ſighted Perſon ſhould profeſs himſelf certain that an object is white, when a multitude of others, the moſt clear ſighted that can be found, having all the ſame means of a right ſenſation as he hath, pronounce it black, or of another colour.</hi>
+               <note place="margin">
+                  <hi>V.</hi> Rational ac<g ref="char:EOLhyphen"/>count diſc. 2. Chap. 5. §. 42. p. 141.</note> Moreover if theſe Scri<g ref="char:EOLhyphen"/>ptures, or reaſons be ſo clear even to the ignorant and unlearned <hi>Jew,</hi> muſt they not be as clear to their <hi>Church-Guides,</hi> and may not then their judgments more ſecurely be rely'd upon, at leaſt for any thing which is preſumed to be clear?
+<note place="margin">Diſc. Chap. 3. §. 37. p. 24.</note> 
+               <hi>For if Scriptures be maintained ſo clear in neceſſaries, that every one uſing a right endeavour cannot miſtake in them, then ſhall the Church Governours much ra<g ref="char:EOLhyphen"/>ther, by reaſon of this clearneſs, obvious to every Ru<g ref="char:EOLhyphen"/>ſtick, not err in them; and ſo ſhall the people, the more the Rule of faith is proved to be clear, the more ſecurely rely on, and be referred in them to their di<g ref="char:EOLhyphen"/>rection.</hi>
+            </p>
+            <p n="4">4. If you pretend a more ſincere endeavour in thoſe few converts to find out the ſenſe of <hi>Scrip<g ref="char:EOLhyphen"/>ture,</hi> or ſearch out the truth in theſe matters, which, in the caſe of the <hi>Beraeans,</hi> your Scripture ſeemeth to aſſert.</p>
+            <p>
+               <hi>Anſw.</hi> I Anſwer ſtill with the ſame Author,
+<note place="margin">Diſc. Chap. 1. p. 4, 5.</note> 
+               <hi>that ſince all parties do pretend ſincere endeavour in the right underſtanding of the Scriptures, and after it do differ ſo much in their ſenſe of it, it follows that ſuch ſincere endeavours being indifferently allowed to all par<g ref="char:EOLhyphen"/>ties, the ſenſe of Scripture,</hi> (and the verdict of true reaſon) <hi>ought to be pronounced clear, if on any,
+<pb n="19" facs="tcp:37721:12"/>on that ſide as the major part doth apprehend it; (which certainly was not the Primitive Converts,</hi> but the unbelieving <hi>Jews,</hi> and their <hi>Eccleſiaſtical Superiors.</hi>)
+<note place="margin">Ibid. p. 24.</note> For ſurely <hi>we have reaſon to preſume that the Chief Guides of the Church, in their conſults concerning a point neceſſary to Salvation delivered in Scripture,</hi> (as that of the <hi>Meſſiah</hi> was) <hi>uſe at leaſt ſo much endeavour as a plain Ruſtick doth to under<g ref="char:EOLhyphen"/>ſtand the meaning of it.</hi> And <hi>whatſoever other thing is ſuppoſed neceſſary beſides ſincere endeavour, or is underſtood to be included in it, (as freedom from paſ<g ref="char:EOLhyphen"/>ſion, and ſecular Intereſt, or alſo a freely profeſſing the truths which their ſincere endeavour diſcovers to them,) none can rationally imagin but that theſe ſu<g ref="char:EOLhyphen"/>pream Church Governours ſhould be as much, or more diſengaged herein, than private men.</hi>
+               <note place="margin">Ibid. p. 145.</note> And <hi>that paſ<g ref="char:EOLhyphen"/>ſion and intereſt blind private men, or our ſelves, ſooner than General Councils, or a major part of the Church.</hi>
+            </p>
+            <p>See therefore here the wiſdom of the unbelie<g ref="char:EOLhyphen"/>ving <hi>Jews, who to preſerve themſelves from erring,</hi> in this matter, <hi>made uſe of the ſecureſt way that reaſon could imagine,</hi>
+               <note place="margin">Rat. Account Diſc. 1. Chap. 7. §. 77. p. 74.</note> ſaith R. H. <hi>or that Chriſtians are preſcribed, whilſt for the ſenſe of the Scriptures that</hi> were <hi>controverted in</hi> this <hi>point</hi> of the <hi>Meſſiah, they choſe not to rely on their own judgments, but on that of the Supremeſt Guides of the Church, and Judges of Divine Truth that were afforded them on earth, and ſo if they erred, yet took the wiſeſt courſe to have miſſed erring that Religion, or Reaſon could dictate. To which Guides alſo the ſubjects of this former Communion all believed ſubmiſſion of their private judgments to be due, and to be commanded, from whence alſo it follows that till they are convinced of error in this point,</hi> viz. <hi>that no ſubmiſſion was due,</hi> to the Decrees of all theſe <hi>Councils,</hi> and the
+<pb n="20" facs="tcp:37721:13"/>concurring judgment of thoſe <hi>Spiritual Guides</hi> by whom your <hi>Jeſus</hi> was condemned, <hi>they are not capable of being convinced in any other matter,</hi>
+            </p>
+            <p>If laſtly, you affirm that the common people had conviction, and demonſtration from the <hi>Miracles</hi> of <hi>Chriſt</hi> of the falſhood of the Decrees, and the Interpretations of their <hi>Church Guides</hi> in this mat<g ref="char:EOLhyphen"/>ter, and of the truth of that <hi>Chriſtianity</hi> which they embraced in oppoſition to thoſe ſaid Decrees.</p>
+            <p>
+               <hi>Anſw.</hi> This I confeſs is a great truth, but then the <hi>Roman Doctors</hi> cannot plead it, without reje<g ref="char:EOLhyphen"/>cting moſt of their profeſſed Tenets, and their ſtrongeſt pleas for abſolute ſubmiſſion to the <hi>Ma<g ref="char:EOLhyphen"/>jor</hi> part of their <hi>Church Guides.</hi> For,</p>
+            <p n="1">1. Admit our <hi>Saviour,</hi> and his <hi>Apoſtles</hi> wrought true <hi>Miracles,</hi> how did the <hi>vulgar</hi> perceive them ſo to be but by their ſenſes? and how did they in<g ref="char:EOLhyphen"/>fer from them the truth of <hi>Chriſtianity,</hi> but by their private Reaſons?
+<note place="margin">Rat. Account Diſc. 1. Chap. 6. §. 62. p. 63.</note> Now <hi>the evidence of ſenſe and reaſon muſt be both neglected,</hi> ſaith the <hi>Roma<g ref="char:EOLhyphen"/>niſt, when a Divine Revelation declares any thing contrary to them,</hi> This, and this only, being their defence of <hi>Tranſubſtantiation</hi> againſt the common ſenſe and reaſon of mankind. Now of the cer<g ref="char:EOLhyphen"/>tainty of a Divine Revelation, or the true ſenſe of <hi>Scripture,</hi> they make the judgment of the <hi>Ma<g ref="char:EOLhyphen"/>jor</hi> part of their <hi>Church Guides</hi> to be ſufficient evi<g ref="char:EOLhyphen"/>dences, and ſo there was ſufficient evidence, ac<g ref="char:EOLhyphen"/>cording to this <hi>Rule,</hi> that all the <hi>Miracles</hi> which <hi>Chriſt,</hi> and his <hi>Apoſtles</hi> ſeemed to work, were done in oppoſition to <hi>Divine Revelation,</hi> or the true ſenſe of <hi>Scripture.</hi>
+            </p>
+            <p n="2">2. Certain it is that the <hi>Rulers</hi> of the <hi>Jews,</hi> and the prevailing part of the whole <hi>Nation,</hi> differed from the converted <hi>Chriſtians</hi> in their apprehenſi<g ref="char:EOLhyphen"/>ons of theſe <hi>Miracles,</hi> and judged them all <hi>Dia<g ref="char:EOLhyphen"/>bolical
+<pb n="145" facs="tcp:37721:13"/>Impoſtures,</hi> or trials of their Faith, <hi>&amp;c.
+<note place="margin">Rat. Account Diſc. 4. Conſ. 2. p. 384.</note> Now this ſeems neceſſary to be granted,</hi> ſaith R. H. <hi>that in what kind of knowledg ſoever it be, (whe<g ref="char:EOLhyphen"/>ther of our ſenſe or reaſon, in what ever Art or Sci<g ref="char:EOLhyphen"/>ence) one can never rightly aſſure himſelf concerning his own knowledg, that he is certain of any thing for a truth, which all, or moſt others of the ſame, or better abilities for their cognoſcitive faculties, in all the ſame external means, or grounds of the know<g ref="char:EOLhyphen"/>ledg thereof, do pronounce an error.</hi> So that <hi>where all, or moſt differ from me, it ſeems a ſtrange pride not to imagine this defect in my ſelf, rather than them, eſpecially when as all the grounds of my ſcience are communicated to them, and when as for my own miſtakes, I cannot know exactly the extent of ſuper<g ref="char:EOLhyphen"/>natural deluſions.</hi> According therefore to this <hi>Rule,</hi> it was ſtrange pride in the firſt Converts to <hi>Chriſtianity</hi> among the <hi>Jews,</hi> to judg the <hi>Miracles</hi> of <hi>Chriſt,</hi> or his <hi>Apoſtles</hi> true, when moſt of their own <hi>Nation,</hi> as well as <hi>Heathens,</hi> differed from them in that apprehenſion, and ſpake ſo freely every where againſt the <hi>Sect</hi> of <hi>Chriſtians.</hi>
+            </p>
+            <p n="3">3. The truth of the pretences of our <hi>Lord,</hi> and his <hi>Apoſtles, depended on two things,</hi>
+               <note place="margin">Stillingfl. ibid. p. 42.</note> viz. the ful<g ref="char:EOLhyphen"/>filling of Propheſies, and the truth of his Mira<g ref="char:EOLhyphen"/>cles. <hi>Now according to the</hi> Roman Principles <hi>no man could be certain of the truth of either of theſe without the Authority of the then</hi> preſent Church. <hi>For the fulfilling of</hi> Propheſies <hi>depended on the ſenſe of many obſcure places of</hi> Scripture, <hi>of which, ſay they, the</hi> Major <hi>part of the</hi> Church-Guides <hi>muſt judg. And for</hi> Miracles, <hi>they tell us that there is no certain way of judging true, from falſe, but by the Authority of the</hi> Church. <hi>Now if theſe things be ſo, what ground could the firſt</hi> Jewiſh Converts <hi>have to believe</hi> Chriſt <hi>was the true</hi> Meſſiah,
+<pb n="146" facs="tcp:37721:14"/>
+               <hi>or a worker of true</hi> Miracles, <hi>when in believing both theſe things, they muſt oppoſe the Authority of the then preſent</hi> Church.</p>
+            <p n="4">4. All that hath been diſcourſed in anſwer to the former pleas, ſerves alſo againſt this. For who ſhall be judg whether theſe <hi>Miracles</hi> were true, and were ſufficient to confirm the <hi>Chriſtian</hi> Faith? thoſe <hi>Perſons</hi> whoſe Office it was to judg both of true <hi>Prophets,</hi> and true <hi>Miracles,</hi> or thoſe who had no power or commiſſion ſo to do? Was not the <hi>Jewiſh Sanhedrim</hi> and other <hi>Rulers</hi> of that <hi>Church</hi> more able <hi>Judges</hi> of the Truth, and the validity of any <hi>Miracles</hi> pretended to be wrought by <hi>Chriſt</hi> and his <hi>Apoſtles,</hi> than was that <hi>Multitude</hi> which, as experience teacheth, may be impoſed upon with eaſe? Were not thoſe <hi>Guides</hi> who were appointed to be <hi>Judges</hi> in all other matters, the proper <hi>Judges</hi> of this Contro<g ref="char:EOLhyphen"/>verſie? Have we not reaſon to believe their judg<g ref="char:EOLhyphen"/>ment was as free from intereſt and paſſion, and their endeavors to ſearch out the truth of theſe relations as ſincere, as was the judgment or en<g ref="char:EOLhyphen"/>deavours of the <hi>Laity?</hi> When therefore theſe <hi>Church-Guides</hi> did notwithſtanding thoſe preten<g ref="char:EOLhyphen"/>ded <hi>Miracles</hi> of <hi>Chriſt</hi> and his <hi>Apoſtles,</hi> conclude unanimouſly that <hi>Chriſt</hi> was a <hi>Deceiver,</hi> was it not abſurd to ſay that what they ſo univerſally determined, might be diſcerned by any private judgment to be the cleareſt falſhood? that <hi>vulgar</hi> perſons had demonſtration in this matter againſt the judgment of the whole body of their <hi>Guides,</hi> and that their common reaſon was able to diſcern that to be manifeſtly true, which the ſame com<g ref="char:EOLhyphen"/>mon reaſon of their <hi>Superiors,</hi> judged to be mani<g ref="char:EOLhyphen"/>feſtly falſe?</p>
+            <pb n="147" facs="tcp:37721:14"/>
+            <milestone type="tcpmilestone" unit="unspecified" n="VI"/>
+            <p>Thus have we ſeen that <hi>Scripture</hi> and Reaſon do more countenance the <hi>Jew</hi> pleading againſt our Lord, and the firſt <hi>Chriſtian</hi> Converts, than they do countenance the <hi>Papiſt</hi> pleading againſt <hi>Proteſtants.</hi> In the laſt place the <hi>Jew</hi> may argue from Tradition thus, <hi>viz.</hi>
+            </p>
+            <p>Theſe <hi>Spiritual Guides</hi> in making this determi<g ref="char:EOLhyphen"/>nation and paſſing of this judgment concerning <hi>Jeſus</hi> were guided by that <hi>Rule,</hi>
+               <note place="margin">Synod. Tri<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Seſſ. 4.</note> which by the greateſt part of <hi>Chriſtians,</hi> I mean the <hi>Roman Ca<g ref="char:EOLhyphen"/>tholicks,</hi> is highly magnified, and equaled with the Holy <hi>Scriptures, viz.</hi> Tradition, acknowledged by the <hi>preſent Church</hi> for ſuch. And ſo your <hi>Jeſus</hi> muſt alſo upon this account be deemed an <hi>Impoſtor,</hi> or the pretences and pleadings of the <hi>Romaniſt</hi> againſt the <hi>Proteſtant,</hi> from the Tradition of the <hi>Church,</hi> muſt be acknowledged to be vain. For,</p>
+            <p n="1">1. It is moſt certain that the <hi>Jews</hi> had a Tra<g ref="char:EOLhyphen"/>dition generally received amongſt them that their <hi>Meſſiah</hi> at his coming ſhould <hi>reſtore the Kingdom to Iſrael.</hi> That he ſhould ſubdue the <hi>Nations</hi> under them, and ſhould erect a Temporal Dominion in the <hi>Jewiſh</hi> Nation over all their Enemies. Even the Diſciples of our Lord did conſtantly believe this Article, till by the <hi>Holy Ghoſts</hi> deſcent upon them, they were better informed.
+<note place="margin">Matth. xviii. 1. Matth. xx. 21.</note> Witneſs their conteſts <hi>who ſhould be greateſt in that Kingdom,</hi> and the deſire of the Sons of <hi>Zebedee to ſit one at his right hand, another at his left hand in it.</hi> This was our Faith, ſaith <hi>Cleopas,
+<note place="margin">Luke xxiv. 21</note> we truſted that</hi> this <hi>Jeſus ſhould have Redeemed</hi> our <hi>Iſrael.</hi> And when they were aſſembled, after the Reſurrecti<g ref="char:EOLhyphen"/>on, their firſt enquiry is this,
+<note place="margin">Act. i. 6.</note> 
+               <hi>Lord wilt thou now reſtore the Kingdom to Iſrael.</hi> It is therefore cer<g ref="char:EOLhyphen"/>tain that this was the received Tradition of the whole <hi>Jewiſh Church,</hi> grounded as they ſuppoſed,
+<pb n="148" facs="tcp:37721:15"/>upon the <hi>Scriptures</hi> which did neceſſitate them to expect <hi>a glorious Meſſiah,
+<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. Dial. p. 249. B.</note> not ſuch a one,</hi> ſaith Try<g ref="char:EOLhyphen"/>pho, <hi>as your mean and deſpiſed Jeſus was.</hi>
+            </p>
+            <p n="2">2. It was alſo a Tradition which generally ob<g ref="char:EOLhyphen"/>tained amongſt the <hi>Jews,</hi> that their <hi>Elias,</hi> who was called the <hi>This bite,</hi> was to appear again in perſon before the advent of the true <hi>Meſſiah,</hi>
+               <note place="margin">Mal. iv. 5.</note> ſo was that place of <hi>Malachi</hi> Tranſlated by the <hi>Se<g ref="char:EOLhyphen"/>venty</hi> three hundred and eighty years before our <hi>Saviours</hi> coming. <hi>Behold I ſend unto you</hi> Elias <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>before the great and glorious day of the Lord come.
+<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. Dial. p. 268. A. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. Mark ix. 11.</note> All we expect,</hi> ſaith Trypho, <hi>that Chriſt ſhould be anointed by Elias, who is for to come, and becauſe this</hi> Elias <hi>is not come we think your Jeſus cannot be the Chriſt.</hi> Accordingly the <hi>Scribes,</hi> or the Expounders of the Law, did with one voice declare it neceſſary <hi>that</hi> Elias <hi>ſhould firſt</hi> come.</p>
+            <p n="3">3. It was the general Tradition of the <hi>Jews</hi> that the Law of <hi>Moſes</hi> ſhould be perpetually obliging to them; and that it was to be obſerved even in the days of the <hi>Meſſiah.</hi> On this preſum<g ref="char:EOLhyphen"/>ption certainly it was that Chriſts <hi>Diſciples,</hi> after his Reſurrection, were ſtrict obſervers of the Law of <hi>Moſes</hi> for a conſiderable time; and ſo were al<g ref="char:EOLhyphen"/>ſo many thouſands of the <hi>Jewiſh Converts.</hi> St. <hi>Pe<g ref="char:EOLhyphen"/>ter</hi> was ſo nice in obſervation of the <hi>Jewiſh</hi> cu<g ref="char:EOLhyphen"/>ſtoms that till he was informed better by a viſion, he thought ſuch meat was utterly unlawful as was forbidden by the Law, ſo that when in that viſion he was bid <hi>to ſlay and eat,</hi> he preſently cries out, as a man tempted to an unlawful act,
+<note place="margin">Act. x. 14.</note> 
+               <hi>Not ſo Lord, for I have never eaten any thing that is unclean.</hi> St. <hi>James</hi> gives an account to <hi>Paul</hi> of the great Zeal that all the <hi>Jewiſh</hi> Converts had to the Law of <hi>Moſes</hi> in theſe words,
+<note place="margin">Act. xxi. 20.</note> 
+               <hi>Thou ſeeſt Brother how many thouſand of Jews there are which believe, and
+<pb n="149" facs="tcp:37721:15"/>they are all zealous of the Law.</hi> He farther tells him how highly they were all offended with him,
+<note place="margin">Verſe 21.</note> becauſe they were informed he had taught that they were not obliged to yield obedience to the Conſtitutions and Cuſtoms of the <hi>Jewiſh</hi> Law; and laſtly doth exhort him to do what might be proper to cauſe theſe <hi>Zealots</hi> to believe that <hi>he al<g ref="char:EOLhyphen"/>ſo walked orderly, and kept the Law.</hi>
+               <note place="margin">Verſe" 24.</note>
+               <note n="a" place="margin">Chron. 2.</note> St. <hi>Jerom,</hi> and
+<note n="b" place="margin">Lib. 2. c. 45.</note> 
+               <hi>Sulpicius</hi> inform us that fourteen immediate ſucceeding <hi>Biſhops,</hi> with their flocks, were all ob<g ref="char:EOLhyphen"/>ſervers of the Law of <hi>Moſes.</hi> And by the unbe<g ref="char:EOLhyphen"/>lieving <hi>Jews</hi> nothing was more abhorred than the thoughts of changing their <hi>Moſaick</hi> Cuſtoms. For upon this account St. <hi>Stephen</hi> was accuſed of Blaſphemy againſt <hi>Moſes,</hi> and the Law,
+<note place="margin">Act. vi. 11, 14.</note> becauſe he ſaid <hi>that the Meſſiah ſhould change the cuſtoms which</hi> Moſes <hi>had delivered to them.</hi> This accuſa<g ref="char:EOLhyphen"/>tion before the <hi>Scribes,</hi> the <hi>Elders</hi> and <hi>High-Prieſt,</hi> was deemed ſufficient to prove him guilty of that capital offence of <hi>Blaſphemy.</hi> On this account they bring St. <hi>Paul</hi> before the judgment ſeat of <hi>Gallio,</hi> becauſe, ſay they, he did perſuade men to worſhip God <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <note place="margin">Act. xviii. 13.</note>, <hi>againſt, or otherwiſe than was commanded by the Law of</hi> Mo<g ref="char:EOLhyphen"/>ſes. And this opinion they grounded chiefly up<g ref="char:EOLhyphen"/>on thoſe places which ſeem to ſpeak of the perpe<g ref="char:EOLhyphen"/>tual duration of thoſe Statutes,
+<note place="margin">Deut. xxix. 29. Levit. iii. 11. Exod. xii. 17.</note> and ſay they ſhall be <hi>ordinances to them for ever,</hi> and conſequently ſeem to infer a Declaration from the mouth of God, that they ſhould not be altered.</p>
+            <p>Moreover it is certain that, as the <hi>Proteſtants</hi> condemn as ſinful and pernitious, many Tradi<g ref="char:EOLhyphen"/>tions and Cuſtoms of the <hi>Roman Church,</hi> ſo did that <hi>Jeſus</hi> whom Chriſtians honour as the true <hi>Meſſiah,</hi> as frequently inveigh againſt, and ſo<g ref="char:EOLhyphen"/>lemnly condemn many Traditions which then
+<pb n="150" facs="tcp:37721:16"/>were generally received, and practiſed in the <hi>Jewiſh Church,</hi> as vain and ſinful cuſtoms, and ſuch as tended to make void the <hi>Scriptures,</hi> and render the whole <hi>Jewiſh</hi> worſhip vain. He there<g ref="char:EOLhyphen"/>foce ſeemeth to have been as great an enemy to <hi>Eccleſiaſtical</hi> Traditions, though they were gene<g ref="char:EOLhyphen"/>rally owned by the then preſent <hi>Church,</hi> as ſuch as <hi>Proteſtants</hi> can be eſteemed.</p>
+            <p>Laſtly, Certain it is that the <hi>Superiours,</hi> and <hi>Church Rulers,</hi> or at the leaſt the <hi>Major,</hi> and pre<g ref="char:EOLhyphen"/>vailing part of the <hi>Church Rulers,</hi> did then as firmly, and unqueſtionably believe that thoſe Traditions which were condemned by your <hi>Je<g ref="char:EOLhyphen"/>ſus,</hi> and which ſo evidently proved, if true, he was not the <hi>Meſſiah</hi> promiſed to the <hi>Jew,</hi> were both agreeable to the word of God Expounded by their <hi>Church Tradition,</hi> and were delivered to them by <hi>Moſes</hi> and the <hi>Patriarchs,</hi> and <hi>Prophets,</hi> and were continually practiſed by their <hi>Fore<g ref="char:EOLhyphen"/>fathers,</hi> as doth the <hi>Roman Church</hi> believe that her Traditions were taught, and practiſed by <hi>Chriſt</hi> or his <hi>Apoſtles,</hi> and by their Succeſſors through<g ref="char:EOLhyphen"/>out all Ages of the <hi>Church.</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Matth. xv. 2. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Gal. i. 14.</note> Hence are they often ſtyled by them <hi>the Traditions of the Antients, or the Traditions received by ſucceſſion from their Fathers.</hi>
+            </p>
+            <p>And in their later writers they are always held to be derived from God by <hi>Moſes</hi> together with the written Law, and as an explication of it. Hence, like good <hi>Roman Catholicks,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Act. xxi. 21. Act. xxviii. 17.</note> they were <hi>more exceedingly zealous for the Traditions of their Fathers,</hi> than for the Law it ſelf. They accuſe all who walked not according to theſe cuſtoms of their Fathers, as perſons who forſook the Law of <hi>Moſes.</hi> And to do any thing <hi>againſt theſe cuſtoms of their Fathers</hi> was reputed Criminal: This be<g ref="char:EOLhyphen"/>ing ſo,</p>
+            <pb n="151" facs="tcp:37721:16"/>
+            <p>I ask why the tradition of the <hi>major</hi> part of the <hi>Church Catholick</hi> or <hi>Chriſtians</hi> in any Age whatſo<g ref="char:EOLhyphen"/>ever, and their concurring judgment that what ſhe doth at preſent teach, and practiſe, ſhe received from <hi>Chriſt</hi> and his <hi>Apoſtles,</hi> ſhould be eſteemed ſufficient to render all thoſe perſons guilty of <hi>He<g ref="char:EOLhyphen"/>reſie</hi> and <hi>Schiſm,</hi> who do not yield aſſent to what they teach, or a compliance with their practices as <hi>Roman Catholicks</hi> aſſert, and yet that the general tradition of the then preſent <hi>Jewiſh Church,</hi> even including the <hi>Diſciples</hi> of <hi>Chriſt,</hi> ſhould not con<g ref="char:EOLhyphen"/>clude them <hi>Schiſmaticks</hi> and <hi>Hereticks,</hi> who being Members of that Church, would not aſſent unto what they ſo generally taught, or comply with that which they practiſed as delivered to them by <hi>Moſes,</hi> and the <hi>Patriarchs,</hi> and <hi>Prophets.</hi>
+            </p>
+            <milestone type="tcpmilestone" unit="unspecified" n="VII"/>
+            <p>But to apply theſe things, if it be poſſible, yet more particularly unto the pleadings of the <hi>Roman Church,</hi> and to ſhew the weakneſs and the pernici<g ref="char:EOLhyphen"/>ous reſults of their moſt ſpecious pretences. I add,</p>
+            <p n="1">1. That notwithſtanding it was the duty of the <hi>Prieſts</hi> and <hi>Rulers</hi> of the <hi>Jewiſh Church</hi> both to preſerve and teach unto the people the knowledg of the Law, yet did the <hi>major</hi> part of theſe <hi>Church-Guides,</hi> both oft and dangerouſly ſwerve from this their duty. For they did teach and pra<g ref="char:EOLhyphen"/>ctiſe, and direct the people into thoſe ways which were deſtructive to the eternal welfare of their Souls, God by his <hi>Prophets</hi> doth complain without exception of them,
+<note place="margin">Eſa. xxviii. 7. Ibid. <hi>v.</hi> 15.</note> 
+               <hi>that they erred in viſion, and ſtumbled in judgment, that the teachers of his people made lies their refuge, and under falſhood hid them<g ref="char:EOLhyphen"/>ſelves, ſaying, the overflowing ſcourge ſhall not come to us:</hi>
+               <note place="margin">Iſa. xliil. 27. Iſa. lvi. 10, 11.</note> that their <hi>Interpreters had tranſgreſs'd againſt him, that his watchmen were blind, they were all ig<g ref="char:EOLhyphen"/>norant, all dumb dogs that could not bark, ſleeping, ly<g ref="char:EOLhyphen"/>ing
+<pb n="152" facs="tcp:37721:17"/>down, loving to ſlumber; that they were greedy dogs that could never have enough.
+<note place="margin">Jer. ii. 8.</note> Shepherds that could not underſtand, that the Prieſts ſaid not, Where is the Lord? and they that handled the Law knew him not, that the Paſtors alſo tranſgreſſed againſt him, and the Prophets propheſied by Baal, and walked after things that did not profit.
+<note place="margin">Jer. v. 31. Jer. vi. 13, 14.</note> That his Prophets prophe<g ref="char:EOLhyphen"/>ſied falſly, and the Prieſts bare rule by their means. That from the Prophet to the Prieſt every one dealt fal<g ref="char:EOLhyphen"/>ſly. That they heald alſo the hurt of the Daughter of his people ſlightly, ſaying, peace, peace, when there was no peace.
+<note place="margin">Jer. viii. 9. Jer. xxiii. 1, 2.</note> That his wiſe men had rejected the word of the Lord. And that the Paſtors whoſe buſineſs it was to feed his ſheep, deſtroy'd, and ſcattered, and drove them away, and did not viſit them.
+<note place="margin">Ibid. <hi>v.</hi> 11. Ezek. xxii. 26.</note> That both Prieſts and Prophets were profane. That they had violated his Law, and had profaned his holy things, putting no dif<g ref="char:EOLhyphen"/>ference betwixt the Holy and profane, the clean and the unclean, and hid their eyes from his Sabbaths. <note place="margin">Ezek. xxxiv. 1, 6.</note> That the Shepherds of Iſrael fed themſelves, but did not feed the flock, the diſeaſed did they not ſtrengthen, neither did they heal that which was ſick, nor bring again that which was driven away, nor ſeek that which was loſt, but with force and cruelty they Ruled, ſo that the ſheep were ſcattered becauſe there was no Shepherd.
+<note place="margin">Hoſ. iv. 6. Zeph. iii. 4.</note> That they rejected knowledg, ſo that Gods people were deſtroyed for lack of it. That her Prophets were light and treacherous perſons, her Prieſts had polluted the Sanctuary, they had done violence to the Law.
+<note place="margin">Mal. ii. 8.</note> That they had forgotten the Law of their God, they departed out of the way, they cauſed many to ſtumble at the Law, they corrupted the Covenant of Levi.</hi>
+            </p>
+            <p>Moreover of theſe Guides it is expreſly ſaid,
+<note place="margin">Iſa. iii. 12. Chap. ix. 16. Jer. l. 6. Matt. xxiii.</note> 
+               <hi>That they which led his people cauſed them to err, and deſtroyed the way of their paths. That the Leaders of the people cauſed them to err, and they that were led
+<pb n="153" facs="tcp:37721:17"/>of them were deſtroyed, and that their Shepherds cau<g ref="char:EOLhyphen"/>ſed them to go aſtray.</hi> Our Lord declares, <hi>that they were fools, blind Guides, full of Hypocriſie, and of ini<g ref="char:EOLhyphen"/>quity, that they had taken away the key of knowledg,
+<note place="margin">Luke xi. 52. Matt. xxiii. 13.</note> and had ſhut up the Kingdom of Heaven againſt men, not going in themſelves, nor ſuffering them that were entring to go in.</hi> That they made many falſe de<g ref="char:EOLhyphen"/>ciſions in matters of ſo great importance as <hi>to make void the Law of God,
+<note place="margin">Matt. xv. 6, 9.</note> and render his whole worſhip vain. That they tranſgreſſed the commandment of God by their Traditions.</hi> That notwithſtanding their inſtructions <hi>the people were as ſheep without a Shepheard,</hi>
+               <note place="margin">Matt. ix. 36. Matt. xv. 14.</note> or only had <hi>ſuch Guides as would moſt certainly,</hi> if they ſubmitted to their guidance, <hi>lead them to the pit,</hi> Hence therefore I infer,</p>
+            <p n="1">1. That even thoſe <hi>Spiritual Guides</hi> who are by Gods appointment conſtituted to inſtruct his people, and to feed his flock (for ſuch our Lord acknowledged the <hi>Scribes,</hi> and <hi>Phariſees,</hi> and <hi>Ru<g ref="char:EOLhyphen"/>lers</hi> of the <hi>Jewiſh Church</hi> to be) may ſcatter, and deſtroy that flock. And they who are ſet for the judgment of the Lord, and for controverſies, may violate, corrupt, pervert that Law they ſhould in<g ref="char:EOLhyphen"/>terpret, they may be partial in it, they may depart out of the way, they may make the Command<g ref="char:EOLhyphen"/>ments of God of none effect, and his whole wor<g ref="char:EOLhyphen"/>ſhip vain by their traditions, they may cauſe their ſheep to err, ſtumble, and go aſtray, and that ſo dangerouſly that they who are led by them ſhall be deſtroyed with them, and find no entrance into bliſs. And hence, I hope, I may aſſume the bold<g ref="char:EOLhyphen"/>neſs to conclude againſt the <hi>Infallibility</hi> of our <hi>Spiritual Governours,</hi> or the concurring judgments of the <hi>major</hi> part of them: which is ſufficient to root up even the foundations of the <hi>Romiſh Babel.</hi>
+            </p>
+            <pb n="154" facs="tcp:37721:18"/>
+            <p n="2">2. Hence I infer that notwithſtanding all the formentioned Scriptures, which ſay it was the du<g ref="char:EOLhyphen"/>ty of the people to ask of their <hi>Spiritual Guides</hi> the meaning of the Law, and ſeek the knowledg of it at their mouths, and to enquire after their judg<g ref="char:EOLhyphen"/>ments in all thoſe Controverſies they were not a<g ref="char:EOLhyphen"/>ble to reſolve. I ſay, hence I infer, that notwith<g ref="char:EOLhyphen"/>ſtanding this, the people were not abſolutely obli<g ref="char:EOLhyphen"/>ged to reſt in the deciſion of the <hi>major</hi> part of theſe <hi>Church Guides,</hi> or bound to practiſe all that they approved, for then an obligation muſt be laid up<g ref="char:EOLhyphen"/>on them, not only to err in judgment with them to countenance falſe <hi>Prophets,</hi> and to ſpeak peace to themſelves when there is no peace, but alſo to violate the Law, and to comply with their falſe gloſſes, and corrupt interpretations of it; nay which is more unreaſonable, they muſt be then obliged to be deſtroyed, to fall into the pit, and to exclude themſelves from the enjoyment of <hi>Chriſt</hi> Kingdom. Whereas it is a contradiction to ſay that God obligeth any Perſon to tranſgreſs his Law, and it is little leſs than <hi>Blaſphemy</hi> to ſay h<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> doth require them to deſtroy themſelves, to fal<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> into the pit, or to deprive themſelves of the enjoy<g ref="char:EOLhyphen"/>ment of his Kingdom. Hence therefore I infe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this Corollary:</p>
+            <p>
+               <hi>That neither are all Chriſtian people, Churches, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Nations abſolutely bound to reſt in the deciſions of th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> major part of Chriſtian Biſhops, or to practiſe all th<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> they approve and impoſe.</hi> Which propoſition over<g ref="char:EOLhyphen"/>throws that abſolute and blind obedience to their <hi>Church Guides,</hi> or <hi>Councils</hi> which <hi>Romaniſts</hi> 
+               <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſtifly plead for.</p>
+            <p n="3">3. Hence it is alſo evident that <hi>private perſons,</hi> or that the <hi>minor</hi> part of the whole <hi>Church</hi> may have ſufficient ground, either from reaſon, or clea<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="155" facs="tcp:37721:18"/>
+               <hi>Scripture,</hi> for their refuſal of aſſent, and of ſub<g ref="char:EOLhyphen"/>miſſion to the Authority and definitions of the <hi>major</hi> part of their <hi>Church Guides,</hi> for the <hi>Jews</hi> were bound to believe <hi>Chriſt</hi> to be the true <hi>Meſſiah,</hi> although the <hi>High Prieſt,</hi> and the <hi>Elders</hi> had pro<g ref="char:EOLhyphen"/>nounced him a <hi>deceiver,</hi> and a <hi>Malefactor.</hi> They were obliged to believe his <hi>Miracles</hi> were wrought, not by <hi>Belzebub,</hi> but the <hi>Spirit of God;</hi> that <hi>Chriſts</hi> Kings was not of this world, that <hi>John Baptiſt</hi> was that <hi>Elias which was for to come,</hi> and that to eat with hands unwaſhed, to heal the ſick, to pluck ſome ears of Corn upon the <hi>Sabbath</hi> day, were not unlawful actions, although the <hi>major</hi> part of their <hi>Church Guides</hi> taught, and believed the contrary.
+<note place="margin">Matt. xv. 5.</note> They were obliged not to void that Law of na<g ref="char:EOLhyphen"/>ture which required <hi>Children</hi> to relieve their own diſtreſſed <hi>Parents,</hi> and therefore ſtood obliged not to comply with thoſe traditions of the <hi>Scribes</hi> and <hi>Phariſees,</hi> which made the word of God of none eſſect, and would not ſuffer them to yield o<g ref="char:EOLhyphen"/>bedience to it.
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Mark vii. 8.</note> And ſeeing they had <hi>many tradi<g ref="char:EOLhyphen"/>tions and decrees of the like nature,</hi> which obtained amongſt them, and only were rejected by the <hi>Sa<g ref="char:EOLhyphen"/>duces,</hi> and the <hi>Diſciples</hi> of our <hi>Lord;</hi> in none of theſe could they comply with their <hi>Church Guides</hi> without the violation of that Law of God, which ſure they had ſufficient ground and reaſon to ob<g ref="char:EOLhyphen"/>ſerve. In a word, in all thoſe caſes in which they were not bound to reſt in the deciſions of the <hi>ma<g ref="char:EOLhyphen"/>jor</hi> part of their <hi>Church Guides,</hi> or practiſe what they did approve, that is in all the caſes mentioned in the former head, they muſt have had ſufficient ground, either from Scripture, or from Reaſon, for their refuſal of ſubmiſſion to them. Now theſe three inferences do fully juſtifie the Reformation of the <hi>Church</hi> of <hi>England.</hi>
+            </p>
+            <pb n="156" facs="tcp:37721:19"/>
+            <milestone type="tcpmilestone" unit="unspecified" n="VIII"/>
+            <p n="4">4. From what hath been diſcourſed we may ſee the weakneſs of thoſe pleas the <hi>Roman Doctors</hi> make in their own defence, and of the Arguments they uſe to ſhew that 'tis impoſſible they ſhould be guilty of thoſe corruptions in Doctrine, or in manners which we charge them with. For their moſt ſpecious pretences are to this effect, that we confeſs the <hi>Church</hi> of <hi>Rome</hi> was once both true, and <hi>Orthodox,</hi> ſhew then, ſay they, how we did ceaſe to be ſo, whether by <hi>Schiſm</hi> or <hi>Hereſie?</hi> With <hi>Schiſm</hi> you cannot juſtly charge us,
+<note place="margin">
+                  <hi>R. H.</hi> Rational account, diſc. 3. Chap. 5. §. 63. p. 203.</note> 
+               <hi>for that can never be of a much major, and more dignified part, in reſpect of a leſs, and inferior, ſubject to it; becauſe this main body in any diviſion is rightly taken for the whole, from which a ſeparation is Schiſm, and to which every Member ought to adhere, as to the body, and head here upon earth to which it belongs;</hi> we therefore being the much <hi>major,</hi> and more digni<g ref="char:EOLhyphen"/>fied part of the <hi>Church,</hi> cannot be <hi>Schiſmaticks</hi> in reference to <hi>Proteſtants</hi> who are, and were at their departure, a leſs and an inferior body to us. If <hi>He<g ref="char:EOLhyphen"/>reſie</hi> be the crime charged upon us, by what <hi>Church</hi> were we condemned? what body of men, before you, found fault with thoſe corruptions which you, pretend to reform? for ſure it was not poſſi<g ref="char:EOLhyphen"/>ble for ſo many errors and corruptions to come in<g ref="char:EOLhyphen"/>to the <hi>Church,</hi> and no one take notice of them? could this be ſo, where was the watchful eye of providence over the <hi>Church?</hi> But if we could ſuppoſe this providence was unconcerned for pre<g ref="char:EOLhyphen"/>ſervation of the <hi>Church,</hi> could all the <hi>Paſtors</hi> fall a<g ref="char:EOLhyphen"/>ſleep at once? or could they all conſpire together to deceive their Poſterity? Moreover ſince God will always have a viſible <hi>Church,</hi> what can you mention beſides that which holds Communion with the <hi>Church</hi> of <hi>Rome,</hi> as the then preſent vi<g ref="char:EOLhyphen"/>ſible
+<pb n="157" facs="tcp:37721:19"/>Church of <hi>Chriſt,</hi> when you began your re<g ref="char:EOLhyphen"/>formation (except perhaps ſome <hi>Eaſtern Churches</hi> which you diſlike almoſt as much as that of <hi>Rome?</hi>) And if that <hi>Church</hi> could teach ſuch er<g ref="char:EOLhyphen"/>rors as you charge her with, as matters of the <hi>Chriſtian faith,</hi> what aſſurance can you have ſhe hath not erred in defining the <hi>Canon</hi> of <hi>Scriptures,</hi> and delivering ſome <hi>Book,</hi> or <hi>Books</hi> for the word of <hi>God,</hi> which are not ſo? This is the ſum of all the pleadings of the <hi>Roman</hi> party in their own be<g ref="char:EOLhyphen"/>half. And they are only ſuch as the <hi>Jewiſh Do<g ref="char:EOLhyphen"/>ctors</hi> might have pleaded with as much plauſibili<g ref="char:EOLhyphen"/>ty againſt our <hi>Lords Diſciples,</hi> and that firſt <hi>Chri<g ref="char:EOLhyphen"/>ſtian Church</hi> which they planted in that <hi>Nation.</hi> For,</p>
+            <p n="1">1. Where, may they ſay,
+<note place="margin">Vid. <hi>Stillingfl.</hi> Sermon 24. Acts xiv.</note> will you produce the men of former Ages who taxed the <hi>Jewiſh Church</hi> with ſuch errors and corruptions as your <hi>Jeſus</hi> did? and bid men beware <hi>of the leaven of the Scribes</hi> and <hi>Phariſees,</hi> that is, the moſt holy and learned Members of our <hi>Church?</hi> Do not the <hi>Chriſtians</hi> themſelves acknowledge that we were once a <hi>right vine,</hi> and the <hi>beloved of the Lord?</hi> how, or when therefore did we ceaſe to be ſo? If by <hi>Schiſm;</hi> produce that <hi>major</hi> part, or body of the <hi>Jewiſh Church</hi> from which we ſeparated, when firſt your <hi>Jeſus,</hi> like another <hi>Luther,</hi> appeared among us? Or if by <hi>Hereſie</hi> we ceaſed to be ſo; by what <hi>Church,</hi> what <hi>Councils</hi> were we condemned? Who can believe that God would ever ſuffer ſuch dangerous Doctrines to prevail in his own <hi>Church,</hi> and raiſe up no <hi>Church Guides,</hi> no <hi>Prophets</hi> to di<g ref="char:EOLhyphen"/>ſcover things ſo deſtructive to her very being, till theſe new Teachers and <hi>Reformers</hi> firſt aroſe? Where then had God a true <hi>Church</hi> in the world, if not among the people of the <hi>Jews?</hi> what o<g ref="char:EOLhyphen"/>ther
+<pb n="158" facs="tcp:37721:20"/>
+               <hi>Church</hi> could <hi>Chriſt</hi> or his <hi>Apoſtles</hi> mention, beſides that which he ſo often taxed with void<g ref="char:EOLhyphen"/>ing the Commandments of God, and rendring his worſhip vain, becauſe of ſome traditions which they had received from their <hi>Forefathers?</hi> If then God ſuffered this <hi>Church</hi> to be all over<g ref="char:EOLhyphen"/>run with ſuch a fatal leproſie, and gave no clear diſcovery thereof, where was the watchful eye of Providence? Where was that God who pro<g ref="char:EOLhyphen"/>miſed that he would <hi>put his name for ever in</hi> Je<g ref="char:EOLhyphen"/>ruſalem, <hi>and that his eyes, and heart ſhould be per<g ref="char:EOLhyphen"/>petually there?</hi> But ſuppoſe that Providence was unconcerned, did all our <hi>Paſtors</hi> fall aſleep at once? or could they all conſpire to deceive poſterity? Were not the <hi>Oracles</hi> of God committed to us <hi>Jews,</hi> did not you <hi>Chriſtians</hi> receive them from us, if then our <hi>Church</hi> might teach her <hi>Children</hi> ſuch deſtructive errors, as you charge her with, how can you be aſſured that ſhe hath not erred even in that <hi>Canon</hi> of <hi>Scriptures</hi> which from her you have received?</p>
+            <p>Now though this inſtance, which I have large<g ref="char:EOLhyphen"/>ly proſecuted, may be ſufficient to ſhew the vani<g ref="char:EOLhyphen"/>ty of the moſt plauſible pretences of <hi>R. H.</hi> a<g ref="char:EOLhyphen"/>gainſt the <hi>Proteſtants,</hi> both in his <hi>Rational account,</hi> and his <hi>Diſcourſe.</hi> It might be farther manifeſted that they as ſtrongly plead for the <hi>Heathen</hi> world, againſt the <hi>Jew,</hi> for the <hi>Mahumetan</hi> againſt the <hi>Chriſtian,</hi> for the <hi>Prieſts</hi> of <hi>Baal,</hi> againſt <hi>Elias</hi> and thoſe ſeven thouſand who had not bowed the knee to <hi>Baal,</hi> for the prevailing <hi>Arian,</hi> againſt the <hi>Orthodox,</hi> for the <hi>Fornicator,</hi> the <hi>Simoniack,</hi> the <hi>Covetous</hi> and the <hi>Debauched</hi> perſon in all thoſe <hi>Ages</hi> in which theſe were the <hi>Epidemical,</hi>
+               <note place="margin">Vide. Appen. Chap. 3. §. 10, 16.</note> and al<g ref="char:EOLhyphen"/>moſt general diſeaſes of the <hi>Clergy,</hi> that is from the tenth, to the ſixteenth <hi>Century,</hi> and laſtly for
+<pb n="159" facs="tcp:37721:20"/>
+               <hi>Antichriſt</hi> himſelf, when he, according to the predictions of the Scripture, and the confeſſion of many <hi>Rnman Catholicks,</hi> ſhall drive the <hi>Church,</hi> that is the <hi>Orthodox Profeſſors</hi> of the Faith into the <hi>Wilderneſs,</hi> and ſlay the <hi>Witneſses</hi> of <hi>Chriſt,</hi> and of his Doctrine. But,</p>
+            <p>To conclude, If this be truly the reſult of the moſt ſpecious pretences of the <hi>Roman party</hi> to draw our ſouls into their deadly ſnares, if all their faireſt pleas do make for <hi>Judaiſm,</hi> more naturally than they do for <hi>Popery.</hi> If what they urge to prove <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he <hi>Poteſtant Divines</hi> to be <hi>Deceivers</hi> of the people, doth more ſtrongly prove our bleſſed <hi>Jeſus</hi> a <hi>De<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eiver,</hi> which is the higheſt <hi>Blaſphemy.</hi> I hope that <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o true lover of this <hi>Jeſus</hi> will be much tempted <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y ſuch pleas to entertain a good opinion of the <hi>Romiſh</hi> Faith. It being certainly that Faith which cannot be eſtabliſhed, but on the ruins of <hi>Chriſtianity,</hi> nor embraced by any <hi>Proteſtant,</hi> but <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the greateſt <hi>hazard,</hi> if not the <hi>ruin</hi> of his <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oul.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
